@@ -31,9 +31,5 @@ N/A
 * Github - [m-s-muniz](https://github.com/m-s-muniz/)
 * Email - someone@somewhere.com
 
-## Link to Application
-
-## Demonstation Video Link
-
 ## Screenshot
-![Alt text](./images/generatedREADME%20screenshot.png)
+![Alt text](../images/generatedREADME%20screenshot.png)

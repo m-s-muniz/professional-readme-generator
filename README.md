@@ -31,9 +31,9 @@ N/A
 * Github - [m-s-muniz](https://github.com/m-s-muniz/)
 * Email - someone@somewhere.com
 
-## Link to Application
 
 ## Demonstation Video Link
+https://watch.screencastify.com/v/RGZpAEnS4hTHrGnKneDK
 
 ## Screenshot
 ![Alt text](./images/generatedREADME%20screenshot.png)
